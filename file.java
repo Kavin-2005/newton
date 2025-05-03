@@ -18,3 +18,4 @@ public class BankAccount {
             System.out.println("Deposit amount must be positive.");
         }
     }
+System.out.println("helle");
